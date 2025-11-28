@@ -1,0 +1,3 @@
+[submodule "vscode-ai-asisstant-extension"]
+	path = vscode-ai-asisstant-extension
+	url = https://github.com/xipingyan/vscode-ai-asisstant-extension.git
